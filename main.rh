@@ -1,0 +1,11 @@
+# Comments!
+(printf | "Hello World!")
+(scanf | "How old was are you?" | age)
+(init | int | x | 10)
+(sys | "cls")
+(py | "print('Hello World!'")
+(sqrt | 9)
+(wait | 5)
+(sine | 3)
+(fib | 10)
+(init | eq | <1 + 8> / 9 | equation)
