@@ -1,6 +1,6 @@
 # Comments!
 (printf | "Hello World!")
-(scanf | "How old was are you?" | age)
+(scanf | "How old are you?" | age)
 (init | int | x | 10)
 (sys | "cls")
 (sqrt | 9)
